@@ -69,4 +69,4 @@ while not end_of_game:
     print(stages[lives])
 
 
-input('Press Enter to Exit...')
+input('Press Enter to Exit..')
